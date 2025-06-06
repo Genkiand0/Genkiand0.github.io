@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Genki Ando",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/Genkiand0.png",
+    "email": "genkiand@hawaii.edu",
+    "phone": "808-200-6993",
+    "website": "https://Genkiand0.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Genkiand0", "url": "http://github.com/Genkiand0" },
+      { "network": "Linkedin", "username": "Genki Ando", "url": "https://www.linkedin.com/in/genki-ando-6291b1369/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Software Engineering" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Video Game Engineering" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
