@@ -4,11 +4,11 @@ type: essay
 title: My Interests in Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-06
-published: false
+published: true
 labels:
   - 
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/helloWorld.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/helloWorld.jpg">
 
 My first encounter with programming was 10 years old when I participated in the experience event of the Line Follower Robots held in a university in Japan. In the event, participants make robots and program using the block coding software to trace a line printed on the floor. After that, I became interested in programming and engineering robots, and I entered middle high school which has a programming course. 
 
