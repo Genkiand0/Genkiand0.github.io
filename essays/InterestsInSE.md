@@ -8,7 +8,11 @@ published: true
 labels:
   - 
 ---
-My first encounter with programming was 10 years old when I participated in the experience event of the Line Follower Robots held in a university in Japan. In the event, participants make robots and program using the block coding software to trace a line printed on the floor. After that, I became interested in programming and engineering robots, and I entered middle high school which has a programming course. However, I did not do much coding when I was a high school student because I was worried about my future, such as a job. Eventually, I had lost sight of my interests, but when I entered Kapiolani Community College, I was able to reaffirm my interests through taking a class at KCC. Then, I decided to major in Computer Science to study software engineering, video game engineering, and Artificial Intelligence. For software engineering, I am interested in how to develop software and deepen my understanding of software.
+My first encounter with programming was 10 years old when I participated in the experience event of the Line Follower Robots held in a university in Japan. In the event, participants make robots and program using the block coding software to trace a line printed on the floor. After that, I became interested in programming and engineering robots, and I entered middle high school which has a programming course. 
+
+However, I did not do much coding when I was a high school student because I was worried about my future, such as a job. Eventually, I had lost sight of my interests, but when I entered Kapiolani Community College, I was able to reaffirm my interests through taking a class at KCC. 
+
+Then, I decided to major in Computer Science to study software engineering, video game engineering, and Artificial Intelligence. For software engineering, I am interested in how to develop software and deepen my understanding of software.
 
 ## 1. Developing software.
 Previously, I had learned about basic coding and done several projects using basic skills through the ICS classes, however, I feel developing software is the application of basic skills. As for the application, I need to use what we’ve learned in previous classes as tools for this class. Since software engineering is not only coding, I must think and learn its design, performance, improving security, etc to understand software engineering. Therefore, learning software engineering is a whole new challenge for me, and I am really excited to learn software engineering.
