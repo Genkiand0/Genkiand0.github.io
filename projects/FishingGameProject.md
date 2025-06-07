@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/LawaiaLuresPoster.png
 title: "Fishing Game Project"
 date: 2024
 published: true
