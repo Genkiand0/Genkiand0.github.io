@@ -8,7 +8,7 @@ published: true
 labels:
   - 
 ---
-<img width="400px" class="rounded float-start pe-4" src="../img/typescript.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/typescript.png">
 
 **Amazing!** That is my first impression of Typescript and playground because I am a complete newbie of Typescript. Specifically, I learned Java, C, and C++ in the previous ICS class, and I used JGrasp and VIM and EMACS of Windows PowerShell as an environment and compiler. Compared to those, Typescript is intuitive, easy to understand, and I immediately understood what it represented from the code when I saw a code of the object. 
 
