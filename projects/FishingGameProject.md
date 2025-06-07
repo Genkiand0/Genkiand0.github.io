@@ -11,6 +11,7 @@ labels:
   - Java
 summary: "It was a group project in ICS 211 class, we developed text-base fishing game of the fish with a Hawaiian name."
 ---
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 The Fishing Game Project was the final project of ICS 211 class, and it was done as a group of 3-4 people. The base setting of the game is a fishing competition in Hawaii that involves two players participating in a competition as fishermen.  Players take turns alternatively and they can try to catch a fish only one per a month. The game ran through one year(12 months), then they would compete for the size or number of fish caught to determine the winner after the last month. The uniqueness of this game is that, in Hawaii, there is a rule to catch the fish which a particular type of fish has an illegal size to catch. Thus, the player must think about the rule when they catch the fish during the game before keeping it. If players selected keep an illegal size of fishes, it will be punished such as losing all of the fish you caught.
 
