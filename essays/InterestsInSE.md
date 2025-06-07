@@ -8,7 +8,8 @@ published: true
 labels:
   - 
 ---
-# <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/helloWorld.jpg">
+
 My first encounter with programming was 10 years old when I participated in the experience event of the Line Follower Robots held in a university in Japan. In the event, participants make robots and program using the block coding software to trace a line printed on the floor. After that, I became interested in programming and engineering robots, and I entered middle high school which has a programming course. 
 
 However, I did not do much coding when I was a high school student because I was worried about my future, such as a job. Eventually, I had lost sight of my interests, but when I entered Kapiolani Community College, I was able to reaffirm my interests through taking a class at KCC. 
