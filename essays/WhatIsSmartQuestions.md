@@ -26,7 +26,9 @@ I felt that in order to obtain effective answers quickly and accurately, it is i
 In Stack Overflow, I have found the question about Typescript asking about how to create Angular 5 File upload part. 
 
 ```
-I'm a beginner with Angular, I want to know how to create Angular 5 File upload part, I'm trying to find any tutorial or doc, but I don't see anything anywhere. Any idea for this? And I tried ng4-files but it's not working for Angular 5
+I'm a beginner with Angular, I want to know how to create Angular 5 File upload part,
+I'm trying to find any tutorial or doc, but I don't see anything anywhere.
+Any idea for this? And I tried ng4-files but it's not working for Angular 5
 ```
 
 This simple question can be improved, but it captures the main point of asking. For example, the asker clearly shows what is a problem and shows the effort to find the answer by searching and trying to do the same for similar files. As a result, the asker got 17 answers and 399 votes, so many people have the same problem and discussed this question.
