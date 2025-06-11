@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-title: "Micromouse"
+title: "The Line Following Robot"
 date: 2025
 published: trie
 labels:
