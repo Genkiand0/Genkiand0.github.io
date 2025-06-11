@@ -3,7 +3,7 @@ layout: project
 type: project
 title: "The Line Following Robot"
 date: 2025
-published: trie
+published: true
 labels:
   - Robotics
   - Programming
