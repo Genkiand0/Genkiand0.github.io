@@ -1,0 +1,20 @@
+---
+layout: project
+type: project
+title: "The Soccer Robot"
+date: 2025
+published: true
+labels:
+  - Robotics
+  - Programming
+  - Soccer
+summary: "The experience of developing Soccer Robots"
+---
+
+## Soccer Robot Project:
+As I developed the Line Following Robot in middle school, I also made soccer robots as a group project at the same grade of school. The rule is there is a soccer field surrounded by walls and goals indentations. Using two robots per team, the side that succeeds in getting an infrared-emitting ball into the opponent’s goal earns points. At the start, the ball is placed in the center, and once the robots are activated, the players are not allowed to touch the robots until a point is scored, or the ball stacks for a 5-10 second. The time of the game is limited and we compete for points. Furthermore, there are regulations on the size of the robot — it must fit within a specific cylindrical measuring device. Therefore, the robot was made cylindrical to use the space efficiently, and since the rules require it to move freely in all directions, special wheels called omni-wheels were used. The movement and positioning of the robots during the match were basically unrestricted — they could be divided into offense and goalkeeper roles or both attack simultaneously. Our group chose a strategy that divided the roles between offense and defense, but the results were disappointing. 
+
+This was largely because, although the size regulations were strict, there were virtually no budget limitations, so the teams that used expensive higher-performance machines inevitably won.
+
+## What I learned
+From the perspective of fair play, the rules were somewhat questionable, but through the process of developing our robot, deciding which components to select and use in order to win, we learned that hardware is just as important as software as well.
