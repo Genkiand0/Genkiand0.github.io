@@ -17,6 +17,7 @@ labels:
 ## What is the Coding Standards and Why are those Important?
 At the beginning, I would like to clarify the definition of coding standards to reflect it. Coding standards are the rules and guidelines that define how code should be written, structured, and formatted. It may be different depending on the project and organization. The main benefit of coding standards is readability for others, including author-self. It improves the efficiency of teamwork and prevents the occurrence of errors because of its readability.
 
+
 ## Coding Standards are Grammars
 Taking the above benefits into consideration, I believe that coding standards should be implemented, especially, when coding involves two or more people, coding standards must be used. In my opinion, code is similar to a spoken language, when doing group work using a programming language. I believe that one of the reasons is that it is called a programming “language,” but it is not only to communicate to the computer – we communicate with programmers using programming languages. 
 
