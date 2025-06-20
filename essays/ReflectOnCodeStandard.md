@@ -12,7 +12,7 @@ labels:
   - ESLint
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/rules.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/rules.jpg">
 
 ## What is the Coding Standards and Why are those Important?
 At the beginning, I would like to clarify the definition of coding standards to reflect it. Coding standards are the rules and guidelines that define how code should be written, structured, and formatted. It may be different depending on the project and organization. The main benefit of coding standards is readability for others, including author-self. It improves the efficiency of teamwork and prevents the occurrence of errors because of its readability.
