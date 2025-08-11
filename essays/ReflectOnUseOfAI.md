@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Use AI Correctly, How My Opinion Changed Throughout ICS314"
+title: "How My Opinion Changed Throughout ICS314"
 # All dates must be YYYY-MM-DD format!
 date: 2025-08-10
 published: true
