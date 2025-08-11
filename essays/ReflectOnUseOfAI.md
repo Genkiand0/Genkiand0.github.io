@@ -10,7 +10,7 @@ labels:
   - Coding
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/vaccine.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/AIGenerateImage.png">
 
 ## I. Introduction
 
