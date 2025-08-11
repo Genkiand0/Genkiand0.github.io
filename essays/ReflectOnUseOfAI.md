@@ -34,6 +34,7 @@ Following this, I believe AI should serve as a tool to support learning in educa
 - Answering a question in class or in Discord
 	- I didn’t have an opportunity to answer some questions on the Discord server.
 - Asking or answering a smart-question
+	- Partialy yes, I use AI as a translator for this.
 - Coding example e.g. “give an example of using Underscore .pluck”
 	- I asked for giving the example to implement Google Map in our app in the final project
 - Explaining code
@@ -41,6 +42,7 @@ Following this, I believe AI should serve as a tool to support learning in educa
 - Writing code
 	- Usually not, I only use this for the suggestion of the code which I understand the function.
 - Documenting code
+	- I use when the extension suggest when I write a code of functions
 - Quality assurance e.g. “What’s wrong with this code \<code here>” or “Fix the ESLint errors in \<code here>”
  	- I did use AI to follow the Code Standards of ESLint
 - Other uses in ICS 314 not listed
