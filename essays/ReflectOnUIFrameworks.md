@@ -4,7 +4,7 @@ type: essay
 title: "Spent a Time for Learning to Save a Time Later"
 # All dates must be YYYY-MM-DD format!
 date: 2025-07-04
-published: true
+published: false
 labels:
   - HTML and CSS
   - Coding
