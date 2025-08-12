@@ -13,7 +13,7 @@ labels:
   - Essays
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/rearview.jpg">
+<img width="280px" class="rounded float-start pe-4" src="../img/rearview.jpg">
 
 ## Introduction
 
