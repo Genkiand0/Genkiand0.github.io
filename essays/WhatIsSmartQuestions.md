@@ -4,7 +4,7 @@ type: essay
 title: "Smart Question to Get Effective Solutions"
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-08
-published: true
+published: false
 labels:
   - Questions
   - Answers
