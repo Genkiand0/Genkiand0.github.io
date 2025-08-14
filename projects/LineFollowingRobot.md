@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/srcrobot.jpg
 title: "The Line Following Robot"
-date: 2025
+date: 2017
 published: true
 labels:
   - Robotics
