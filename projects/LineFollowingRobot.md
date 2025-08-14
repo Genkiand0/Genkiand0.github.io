@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/srcrobot.jpg
 title: "The Line Following Robot"
 date: 2025
 published: true
@@ -9,6 +10,11 @@ labels:
   - Programming
 summary: "The experience of developing the Line Following Robot"
 ---
+
+
+## The Lined Course and Robot ##
+<img width=300px src="../img/src_course.png"> <img width=300px src="../img/srcrobot.jpg">
+
 
 ## Line Following Robot Project:
 The Line Following Robot Project was what I did when I was in middle school. It was a sort of race in which the robot ran the circuit of the black line with a couple of silver squares on the white sheet. It was imitated by the space mission, and the robot had to complete tasks. The robot has color sensors on the left, right and center and decides the movement of detected color. For example, if the left and right sensors detect white, then go straight, or if the left or right sensor detects black turn the body to the side of the sensor detecting black. 
