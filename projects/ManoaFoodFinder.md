@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/MFFland2.png
 title: "Manoa Food Finder Project"
-date: 2024
+date: 2025
 published: true
 labels:
   - Computor Science
