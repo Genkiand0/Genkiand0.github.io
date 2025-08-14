@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MFFland.png
+image: img/MFFland2.png
 title: "Manoa Food Finder Project"
 date: 2024
 published: true
