@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/LawaiaLuresPoster.png
+image: img/MFFland.png
 title: "Manoa Food Finder Project"
 date: 2024
 published: true
@@ -11,7 +11,7 @@ labels:
   - TypeScript
 summary: "It was a group project in ICS 314 class, we developed web application which find the information of foods for students."
 ---
-<img class="img-fluid" src="../img/LawaiaLuresPoster.png">
+<img class="img-fluid" src="../img/MFFland.png">
 
 
 # Project Overview #
